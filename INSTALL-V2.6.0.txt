@@ -1,0 +1,5 @@
+KATTERUMS JAKTLAG v2.6.0
+1. Kor SETUP-V2.6.0-HUNTS.sql i Supabase SQL Editor.
+2. Ladda upp alla filer i ZIP till GitHub-repots rot.
+3. Logga in. Om tabellen hunts ar tom migreras befintliga genomforda jakter dit.
+4. Testregistrera en jakt och kontrollera pa telefon och dator.
